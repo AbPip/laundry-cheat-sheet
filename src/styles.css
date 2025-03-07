@@ -1,0 +1,12 @@
+body{
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+caption{
+    caption-side: top;
+}
+
+.interactive-cell:hover{
+    background-color: rgba(86, 197, 104, 0.422);
+}
